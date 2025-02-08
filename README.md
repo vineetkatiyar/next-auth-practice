@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### Hello Developers,
 
-## Getting Started
+NextAuth using mongodb database and mongoose
 
-First, run the development server:
+### These Technologies are used in this small project :-
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### 1. What is nextAuth
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+NextAuth.js is an open-source authentication library for Next.js applications. It's designed to work with serverless applications and can run anywhere.
+     **https://authjs.dev/**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+#### 2. Shadcn UI
 
-## Learn More
+Shadcn/ui is a UI library that provides pre-built components for building web applications. It's designed to be lightweight, flexible, and customizable, allowing developers to create unique interfaces.
+     **https://ui.shadcn.com/**
 
-To learn more about Next.js, take a look at the following resources:
+#### 3. ServerActions
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Server Actions are asynchronous functions that are executed on the server.
+They can be called in server and client components to handle form submission and data mutations in nextjs applications.
+     **https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+##### Your should use ServerActions when you:
 
-## Deploy on Vercel
+- Need to perform secure database operations
+- Want to reduce API boilerplate code
+- Need progressive enhancement for forms
+- Want to optimize for performance
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### I used GOOGLE provider and CredentialsProvider
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+                                                  Thankyou
