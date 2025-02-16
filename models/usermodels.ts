@@ -16,7 +16,6 @@ const userSchema = new mongoose.Schema({
   },
 
   //whenever we protecting the route we need role
-
   role: {
     type: String,
     default: "user",

@@ -91,7 +91,7 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
             return true;
           }
         } catch (error) {
-          throw new Error("Error while creating user");
+          console.log(error);
         }
       }
 
