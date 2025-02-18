@@ -1,5 +1,12 @@
 ### NextAuth using mongodb database and mongoose
 
+### tech satck
+1. Nextjs
+2. Mongodb
+3. serverActions
+4. Tailwind css
+5. shadcn UI
+
 ### Features
 
 1. Signup functionality with hashing password
